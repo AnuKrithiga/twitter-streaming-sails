@@ -27,3 +27,6 @@ Note:  Generators are usually run using the globally-installed `sails` CLI (comm
 -->
 
 POSTMAN API collection link : https://www.getpostman.com/collections/cea6fc4491ff766c89dd
+
+DB name : twitter (type : MySQL)
+DB script file name : DB_scriptfile_twitter.sql
